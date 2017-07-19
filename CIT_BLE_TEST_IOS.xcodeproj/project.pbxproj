@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					1EA602851F1EF44F004C7765 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 2NP887SMLE;
 						ProvisioningStyle = Automatic;
 					};
 					1EA602991F1EF44F004C7765 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2NP887SMLE;
 				INFOPLIST_FILE = CIT_BLE_TEST_IOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.IshimotoKiko.CIT-BLE-TEST-IOS";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2NP887SMLE;
 				INFOPLIST_FILE = CIT_BLE_TEST_IOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.IshimotoKiko.CIT-BLE-TEST-IOS";
